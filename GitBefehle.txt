@@ -1,0 +1,2 @@
+git config --global user.name "Dein GitHubName"
+git config --global user.email "deine-email@example.com"
